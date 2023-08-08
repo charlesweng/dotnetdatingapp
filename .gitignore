@@ -479,3 +479,4 @@ $RECYCLE.BIN/
 # Misc
 .vscode/
 StudentAssets/
+API/appsettings.json
