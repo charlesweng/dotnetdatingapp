@@ -4,7 +4,9 @@ dotnet dating app tutorial
 ## Setup
 
 install [dotnet](https://dotnet.microsoft.com/en-us/download)
+
 install [npm](https://nodejs.org/en/download)
+
 install [vscode](https://code.visualstudio.com/download)
   - install nuget gallery
   - install C#
@@ -14,4 +16,5 @@ install [vscode](https://code.visualstudio.com/download)
 ```
 dotnet tool install --global dotnet-ef --version 7.0.9
 ```
+
 install [postman](https://www.postman.com/downloads/)
